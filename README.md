@@ -1,6 +1,6 @@
-**WARNING:** Do not upload any files in this repository to public websites. If you want to clone this repository, please make sure to keep it private.
 
-# Round Robin CPU Scheduler Simulator - starter code for Assignment 4
+
+# Round Robin CPU Scheduler Simulator 
 
 To compile all code, type:
 ```
@@ -12,15 +12,8 @@ To run the resulting code on file test1.txt with quantum=3 and max. execution se
 $ ./scheduler 3 20 < test1.txt
 ```
 
-## IMPORTANT
 
-Only modify and submit the `scheduler.cpp` file. Your TAs will
-supply their own versions of the other files (such as main.cpp) to
-compile and test your code.
-
-## Test files
-
-The repository includes several test files. Here are correct results for these test files.
+The repository includes several test files. Here are some of the results.
 
 ```
 $ ./scheduler 3 20 < slides.txt
